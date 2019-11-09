@@ -1,0 +1,23 @@
+HTML
+
+FLask App
+
+AWS Setup w/ S3, Lambda and API
+
+Azure ML
+
+
+- TODO:
+
+views.py 
+line 133 ---> Change output to not just include who won, but maybe also stats for fighters and prediction accuracy.
+
+result.html
+* line 11 ---> Update photo, or remove (additional consideration for layout required)
+
+**** Change font
+**** Get fighter name (red/blue_text) into result.html page.
+* Potentially create python script that allows user to input stats that references actual fighter. Cosine similiarity
+* Figure out how to put fighter's name back into website so that we can reference ML model.
+
+
